@@ -1,6 +1,3 @@
 [submodule "JackCogs"]
 	path = JackCogs
 	url = https://github.com/jack1142/JackCogs
-[submodule "BHC"]
-	path = BHC
-	url = https://github.com/jack1142/BHC
